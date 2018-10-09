@@ -1,0 +1,12 @@
+D:\Projects\GuddyPractices\ASPCORE\coursePractice\Tangy\Tangy\bin\Debug\netcoreapp2.0\Tangy.deps.json
+D:\Projects\GuddyPractices\ASPCORE\coursePractice\Tangy\Tangy\bin\Debug\netcoreapp2.0\Tangy.runtimeconfig.json
+D:\Projects\GuddyPractices\ASPCORE\coursePractice\Tangy\Tangy\bin\Debug\netcoreapp2.0\Tangy.runtimeconfig.dev.json
+D:\Projects\GuddyPractices\ASPCORE\coursePractice\Tangy\Tangy\bin\Debug\netcoreapp2.0\Tangy.dll
+D:\Projects\GuddyPractices\ASPCORE\coursePractice\Tangy\Tangy\bin\Debug\netcoreapp2.0\Tangy.pdb
+D:\Projects\GuddyPractices\ASPCORE\coursePractice\Tangy\Tangy\obj\Debug\netcoreapp2.0\Tangy.csprojAssemblyReference.cache
+D:\Projects\GuddyPractices\ASPCORE\coursePractice\Tangy\Tangy\obj\Debug\netcoreapp2.0\Tangy.csproj.CoreCompileInputs.cache
+D:\Projects\GuddyPractices\ASPCORE\coursePractice\Tangy\Tangy\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Projects\GuddyPractices\ASPCORE\coursePractice\Tangy\Tangy\obj\Debug\netcoreapp2.0\Tangy.AssemblyInfoInputs.cache
+D:\Projects\GuddyPractices\ASPCORE\coursePractice\Tangy\Tangy\obj\Debug\netcoreapp2.0\Tangy.AssemblyInfo.cs
+D:\Projects\GuddyPractices\ASPCORE\coursePractice\Tangy\Tangy\obj\Debug\netcoreapp2.0\Tangy.dll
+D:\Projects\GuddyPractices\ASPCORE\coursePractice\Tangy\Tangy\obj\Debug\netcoreapp2.0\Tangy.pdb

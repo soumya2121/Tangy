@@ -1,0 +1,33 @@
+﻿@model Tangy.Models.SubCategory
+@{
+    ViewData["Title"] = "Details";
+}
+<br />
+<h2>Sub Category Details</h2>
+<br />
+
+<div class="form-border">
+    <fieldset disabled>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Name" class="custome-label"></label>
+            </div>
+            <div class="col-4">
+                <input asp-for="Name" class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="CategoryPlus.Name" class="custome-label"></label>
+            </div>
+            <div class="col-4">
+                <input asp-for="CategoryPlus.Name" class="form-control" />
+            </div>
+        </div>
+    </fieldset>
+    <br />
+    <div class="form-group">
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+        <a asp-action="Index" class="btn btn-success">Back toList</a>
+    </div>
+</div>

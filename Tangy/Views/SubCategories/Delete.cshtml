@@ -1,0 +1,36 @@
+﻿@model Tangy.Models.SubCategory
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<br />
+<h2>Sub Category Delete</h2>
+<br />
+<form method="post">
+    <div class="form-border">
+        <input type="hidden" asp-for="Id"/>
+        <fieldset disabled>
+            <div class="form-group row">
+                <div class="col-2">
+                    <label asp-for="Name" class="custome-label"></label>
+                </div>
+                <div class="col-4">
+                    <input asp-for="Name" class="form-control" />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-2">
+                    <label asp-for="CategoryPlus.Name" class="custome-label"></label>
+                </div>
+                <div class="col-4">
+                    <input asp-for="CategoryPlus.Name" class="form-control" />
+                </div>
+            </div>
+        </fieldset>
+        <br />
+        <div class="form-group">
+            <input type="submit" value="Delete" class="btn btn-danger" />
+            <a asp-action="Index" class="btn btn-success">Back toList</a>
+        </div>
+    </div>
+</form>
