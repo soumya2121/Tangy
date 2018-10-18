@@ -13265,11 +13265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\GuddyPractices\\ASPCORE\\coursePractice\\Tangy\\Tangy\\Tangy.csproj",
+      "projectUniqueName": "D:\\Projects\\GuddyPractices\\GIT\\TANGY\\Tangy\\Tangy.csproj",
       "projectName": "Tangy",
-      "projectPath": "D:\\Projects\\GuddyPractices\\ASPCORE\\coursePractice\\Tangy\\Tangy\\Tangy.csproj",
+      "projectPath": "D:\\Projects\\GuddyPractices\\GIT\\TANGY\\Tangy\\Tangy.csproj",
       "packagesPath": "C:\\Users\\Soumya\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\GuddyPractices\\ASPCORE\\coursePractice\\Tangy\\Tangy\\obj\\",
+      "outputPath": "D:\\Projects\\GuddyPractices\\GIT\\TANGY\\Tangy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

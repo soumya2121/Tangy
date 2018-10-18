@@ -23,5 +23,18 @@ namespace Tangy.Models.AccountViewModels
         [Display(Name = "Confirm password")]
         [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
         public string ConfirmPassword { get; set; }
+
+        [Required]
+        [EmailAddress]
+        [Display(Name = "FirstName")]
+        public string FirstName { get; set; }
+        [Required]
+        [EmailAddress]
+        [Display(Name = "LastName")]
+        public string LastName { get; set; }
+        [Required]
+        [EmailAddress]
+        [Display(Name = "PhoneNumber")]
+        public string PhoneNumber { get; set; }
     }
 }
